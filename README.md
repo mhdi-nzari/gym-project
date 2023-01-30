@@ -1,4 +1,15 @@
-# gym-project
+# 🏋️‍♀️gym-project
 Typescript React Fitness Application | Responsive
 
 [![Watch the video](https://github.com/mhdi-nzari/gym-project/blob/main/MockupFitnes.png)](https://github.com/mhdi-nzari/gym-project/blob/main/gym-video.mp4)
+
+
+# 🧂 Technology
+
+⚡ TypeScript
+⚡ Reactjs
+⚡ Vite
+⚡ Framer Motion 
+⚡ TailwindCss 
+⚡ HeroIcons
+
